@@ -1,0 +1,6 @@
+fastapi
+tensorflow-lite
+librosa
+soundfile
+pydub
+uvicorn
